@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.AssemblyInfo.cs
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminar3\Task21\bin\Debug\net6.0\Task21.exe
+C:\GeekBrains\Seminar3\Task21\bin\Debug\net6.0\Task21.deps.json
+C:\GeekBrains\Seminar3\Task21\bin\Debug\net6.0\Task21.runtimeconfig.json
+C:\GeekBrains\Seminar3\Task21\bin\Debug\net6.0\Task21.dll
+C:\GeekBrains\Seminar3\Task21\bin\Debug\net6.0\Task21.pdb
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.dll
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\refint\Task21.dll
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.pdb
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\Task21.genruntimeconfig.cache
+C:\GeekBrains\Seminar3\Task21\obj\Debug\net6.0\ref\Task21.dll
